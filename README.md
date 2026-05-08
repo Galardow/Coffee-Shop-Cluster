@@ -20,7 +20,11 @@ Setelah memilih variabel independen, saya mulai membangun model. Berikut hasil P
 
 ![App Screenshot](images/pca.png)
 
-Terlihat bahwa principal component 1 menjadi faktor pembeda yang kuat antar cluster. Perbedaan antara cluster pada pelanggan kafe ini cukup jelas. Saya juga membaut visualisasi untuk menampilkan karakteristik tiap cluster.
+Terlihat bahwa principal component 1 menjadi faktor pembeda yang kuat antar cluster. Perbedaan antara cluster pada pelanggan kafe ini cukup jelas. Saya juga membaut visualisasi untuk menampilkan karakteristik tiap cluster. Selanjutnya saya akan menampilkan visualisasi berupa karakteristik dari setiap cluster. Namun sebelum itu saya harus meratakan semua feature dengan skala yang sama.
+
+![App Screenshot](images/scale.png)
+
+Setelah semua feature memiliki skala yang sama, saya membuat visualisasi berisi karakteristik dari setiap cluster.
 
 ![App Screenshot](images/cluster.png)
 
